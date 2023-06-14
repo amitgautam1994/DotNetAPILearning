@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amitg\\dotnet_course_code\\DotnetAPI\\DotnetAPI.csproj": {}
+    "C:\\Users\\amitg\\Dot_net_api\\DotnetAPI\\DotnetAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amitg\\dotnet_course_code\\DotnetAPI\\DotnetAPI.csproj": {
+    "C:\\Users\\amitg\\Dot_net_api\\DotnetAPI\\DotnetAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amitg\\dotnet_course_code\\DotnetAPI\\DotnetAPI.csproj",
+        "projectUniqueName": "C:\\Users\\amitg\\Dot_net_api\\DotnetAPI\\DotnetAPI.csproj",
         "projectName": "DotnetAPI",
-        "projectPath": "C:\\Users\\amitg\\dotnet_course_code\\DotnetAPI\\DotnetAPI.csproj",
+        "projectPath": "C:\\Users\\amitg\\Dot_net_api\\DotnetAPI\\DotnetAPI.csproj",
         "packagesPath": "C:\\Users\\amitg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amitg\\dotnet_course_code\\DotnetAPI\\obj\\",
+        "outputPath": "C:\\Users\\amitg\\Dot_net_api\\DotnetAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amitg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.0.123, )"
+            },
+            "Microsoft.AspNetCOre.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",

@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "qW9G4sxagbA57UIYD6tpbKd9OiK35I5sTAT+tOoBMg1xg98bBb9se+jmj6k5HIUzkG8t2i/9Y/i1D/M4L3EV4A==",
+  "dgSpecHash": "Wh2k11k8dl7SVy47XTZzPRxWCTNz5Mbm0ifM463lmDlHjrHeLN2ei8q2LIttMJ2k/Jkv8+6P07MC1ewkBKkUmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amitg\\dotnet_course_code\\DotnetAPI\\DotnetAPI.csproj",
+  "projectFilePath": "C:\\Users\\amitg\\Dot_net_api\\DotnetAPI\\DotnetAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amitg\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\amitg\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\amitg\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\amitg\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\amitg\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.5\\microsoft.aspnetcore.authentication.jwtbearer.7.0.5.nupkg.sha512",
     "C:\\Users\\amitg\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\amitg\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\amitg\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
